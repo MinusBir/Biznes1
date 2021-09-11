@@ -1,0 +1,18 @@
+.imgimggg{
+width: 300px;
+height: 500px;
+}
+.ContainerImg{
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0; 
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 270px;
+    height: 500px;
+}
+
+.ContainerTitle{
+    margin-bottom: 60px;
+}
