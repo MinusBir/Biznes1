@@ -20,6 +20,10 @@ export default function Marketing() {
                         ming 800 doza vaksina ajratadi. Oʻzbekiston...</h4>
                     <p className={cls.LogoTitleThree}>10.08.2021</p>
                 </div>
+                
+
+
+
                 <div className={cls.ContainerThreeMidle}>
                     <div className={cls.ContentImgText}>
                         <div className={cls.ContainerImg}>
@@ -47,6 +51,10 @@ export default function Marketing() {
                         </div>
                     </div>
                 </div>
+                
+
+
+                
                 <div className={cls.ContainerThreeRight}>
                     <h3 className={cls.TextWithBorderr}>Moskva birjasida xususiy investorlar <br /> 13 milliondan oshdi milliondan oshdi
                     </h3>

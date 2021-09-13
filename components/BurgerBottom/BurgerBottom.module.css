@@ -1,0 +1,119 @@
+.ContainerMarketing{
+    max-width: 1250px;
+    margin: auto;
+}
+
+.MarketingLogo{
+    border-bottom: 1px solid black;
+    border-top: 2px solid black;
+    padding: 30px 0px;
+    font-size: 40px;
+}
+
+.container{
+    max-width: 1350px;
+    margin: auto;
+    margin-top:50px;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+
+.lormText{
+    margin-top: 20px;
+    font-size: 22px;
+}
+
+.description{
+    margin-top: 5px;
+    font-size: 13px;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+    border-bottom: 1px solid gray;
+}
+
+.dadee{
+    margin-top: 5px;
+    font-size: 13px;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
+
+.bothOfContent{
+    width: 420px;
+    height: 300px;
+    margin-bottom: -50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.ContainerThreeMidle{
+    width: 380px;
+}
+
+.ContentImgText{
+    width: 380px;
+    display: flex;
+    gap: 10px;
+
+}
+
+.ContainerImg{
+    width: 150px;
+    height: 150px;
+}
+
+/* .ForTextt{
+    width: 220px;
+} */
+
+.Tteexxtt{
+    margin-top:-5px ;
+    margin-bottom:-5px ;
+}
+
+.LoremLorem{
+    font-size: 12px;
+    font-family:sans-serif ;
+    margin-top: 40px;
+}
+
+.MidleImgg{
+    height: 100%;
+    width: 100%;
+}
+
+.TexttTextt{
+    width: 216px;
+    margin-top: -5px;
+}
+
+.BorderLine{
+    border-top: 1px solid rgb(184, 184, 184);
+    width: 420px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.Tteexxtt{
+    font-size: 17px;
+    width: 216px;
+}
+
+.imgs{
+    max-width: 1250px;
+    margin: auto;
+    display: flex;
+    gap: 20px;
+
+}

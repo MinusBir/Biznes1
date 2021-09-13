@@ -25,6 +25,9 @@ export default function Footer() {
                             <div className={cls.aa}>Telefon raqam: <span> <i>+99894 364-88-88 </i> </span> </div>
                             <div className={cls.mansur}>
                                 <a href="https://www.google.com/maps/@41.2865333,69.3611663,79m/data=!3m1!1e35">kartaga kirmoq</a>
+                            <Link href="/BurgerBottom">
+                                <h1>@</h1>
+                            </Link>
                                 <div className={cls.IconsFacebook}>
 
                                     <a href="https://www.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https%3A%2F%2Fwww.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fbiznesrivoj.uz%252Farticles%252Fbukmekerlik-faoliyatini-tartibga-soluvchi-alohida-qonun-qabul-qilinishi-mumkin&cancel_url=https%3A%2F%2Fwww.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=popup&locale=ru_RU"><FacebookIcon /></a>

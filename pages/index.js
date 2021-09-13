@@ -7,6 +7,7 @@ import Marketing from '../components/Marketing'
 import OfterMarketing from '../components/OfterMarketing'
 import Moliya from '../components/Moliya'
 import Menejer from '../components/Menejer'
+import BurgerBottom from '../components/BurgerBottom'
 import VideoCarousel from '../components/VideoCarousel/index'
 
 import styles from '../styles/Home.module.css'
@@ -22,6 +23,7 @@ export default function Home() {
       <OfterMarketing />
       <Moliya />        
       <Menejer />       
+      {/* <BurgerBottom />        */}
 
 
     </div>
